@@ -1,0 +1,135 @@
+﻿
+
+.navButton {
+    background-color: #9d9;
+    color: #44f;
+    border-radius: 6px;
+    border: 1px solid white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%; 
+    height: 30px;
+}
+
+.weekCell {
+    background-color: #bbf;
+    color: #44f;
+    border-radius: 6px;
+    border: 1px solid white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;   
+    height: 100%;
+    text-align: center;
+    border-radius: 3px;
+    white-space: normal;
+}
+
+.dayLabel {
+    background-color: #bbf;
+    color: #44f;
+    border-radius: 6px;
+    border: 1px solid white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;  
+    height: 30px;
+}
+
+
+
+.addCell {
+    border-radius: 3px;
+    border: 1px solid black;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    font-size: 11px;
+    color: #44f;
+}
+
+.addTodayCell {
+    border-radius: 3px;
+    border: 1px solid black;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    font-size: 11px;
+    color: #d33;
+}
+
+.appButton {
+    border-radius: 3px;
+    border: 1px solid green;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 9px;
+    width: 100%;
+    color: #44f;
+}
+
+.newAppTextBox {
+    border-radius: 5px;
+    border-width: 1px 1px 1px 1px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 120px;
+}
+
+.newAppButton {
+    border-radius: 5px;
+    border-width: 1px 1px 1px 1px;
+    color: #44f;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #9d9;
+    width: 120px;
+}
+
+.cell {
+    border-radius: 3px;
+    margin: 1px;
+    border: 1px solid black;
+    padding: 1px;
+    text-align: center;
+    border-radius: 3px;
+    height: 100%;
+}
+
+.w_cell {
+    border-radius: 3px;
+    margin: 1px;
+    padding: 1px;
+    text-align: center;
+    border-radius: 3px;
+    height: 100%;
+}
+
+.width30 {
+    width: 50px;
+}
+
+.cell30 {
+    margin: 1px;
+    padding: 1px;
+    text-align: center;
+    border-radius: 3px;
+    height: 30px;
+}
+
+.row_min {
+    min-height: 80px;
+}
+
+.row {
+    display: table;
+}
+
+[class*="col-md-1"] {
+    float: none;
+    display: table-cell;
+    vertical-align: top;
+    width: 100px;
+}
+
+[class*="col-md-2"] {
+    float: none;
+    display: table-cell;
+    vertical-align: top;
+    width: 50px;
+}

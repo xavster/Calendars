@@ -1,0 +1,12 @@
+c:\users\jacek\documents\visual studio 2013\Projects\Calendar\Calendar\bin\Calendar.dll.config
+c:\users\jacek\documents\visual studio 2013\Projects\Calendar\Calendar\bin\Calendar.dll
+c:\users\jacek\documents\visual studio 2013\Projects\Calendar\Calendar\bin\Calendar.pdb
+c:\users\jacek\documents\visual studio 2013\Projects\Calendar\Calendar\obj\Release\Calendar.csprojResolveAssemblyReference.cache
+c:\users\jacek\documents\visual studio 2013\Projects\Calendar\Calendar\obj\Release\Calendar.dll
+c:\users\jacek\documents\visual studio 2013\Projects\Calendar\Calendar\obj\Release\Calendar.pdb
+C:\Users\Javier\Desktop\Calendar\Calendar\bin\Calendar.dll.config
+C:\Users\Javier\Desktop\Calendar\Calendar\bin\Calendar.dll
+C:\Users\Javier\Desktop\Calendar\Calendar\bin\Calendar.pdb
+C:\Users\Javier\Desktop\Calendar\Calendar\obj\Release\Calendar.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Calendar\Calendar\obj\Release\Calendar.dll
+C:\Users\Javier\Desktop\Calendar\Calendar\obj\Release\Calendar.pdb
